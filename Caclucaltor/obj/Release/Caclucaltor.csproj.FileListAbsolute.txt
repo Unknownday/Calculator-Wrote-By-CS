@@ -1,0 +1,11 @@
+D:\Sources\Caclucaltor\Caclucaltor\bin\Release\Caclucaltor.exe.config
+D:\Sources\Caclucaltor\Caclucaltor\bin\Release\Caclucaltor.exe
+D:\Sources\Caclucaltor\Caclucaltor\bin\Release\Caclucaltor.pdb
+D:\Sources\Caclucaltor\Caclucaltor\obj\Release\Caclucaltor.csproj.AssemblyReference.cache
+D:\Sources\Caclucaltor\Caclucaltor\obj\Release\Caclucaltor.csproj.SuggestedBindingRedirects.cache
+D:\Sources\Caclucaltor\Caclucaltor\obj\Release\Caclucaltor.Calculator.resources
+D:\Sources\Caclucaltor\Caclucaltor\obj\Release\Caclucaltor.Properties.Resources.resources
+D:\Sources\Caclucaltor\Caclucaltor\obj\Release\Caclucaltor.csproj.GenerateResource.cache
+D:\Sources\Caclucaltor\Caclucaltor\obj\Release\Caclucaltor.csproj.CoreCompileInputs.cache
+D:\Sources\Caclucaltor\Caclucaltor\obj\Release\Caclucaltor.exe
+D:\Sources\Caclucaltor\Caclucaltor\obj\Release\Caclucaltor.pdb
